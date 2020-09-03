@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+table {
+  text-align: left;
+  width: 80%;
+}
+
+
+.Formbuah {
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  margin-top: 30px;
+  margin-left: 500px;
+  margin-right: 500px;
+  border: 1px solid black;
+  border-radius: 30px;
+
+}
+
+.button{
+  border-radius: 20px;
+}
