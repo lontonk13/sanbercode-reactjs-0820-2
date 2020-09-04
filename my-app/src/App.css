@@ -58,3 +58,15 @@ table {
 .button{
   border-radius: 20px;
 }
+.tabelbuah{
+  text-align: left;
+  border:2px solid black;
+  margin-left:300px;
+  margin-right: 300px;
+  margin-bottom: 50px;
+  width: 50%;
+}
+
+.tabelbuah table,tr{
+  border: 1px solid white;
+}
